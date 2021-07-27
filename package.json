@@ -1,0 +1,12 @@
+{
+  "name": "reader2mail",
+  "version": "1.0.0",
+  "bin": "reader2mail.js",
+  "license": "MIT",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.1",
+    "jsdom": "^16.6.0",
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.2"
+  }
+}
